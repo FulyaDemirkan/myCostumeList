@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap0">8dp</dimen>
+    <dimen name="gap1">16dp</dimen>
+    <dimen name="multilineHeight">200dp</dimen>
+    <dimen name="imageSize">80dp</dimen>
+</resources>

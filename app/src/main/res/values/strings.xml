@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Costume List</string>
+    <string name="hint_text_name">Name</string>
+    <string name="hint_text_material">Material</string>
+    <string name="hint_text_instructions">Instructions</string>
+    <string name="button_label_add">Add</string>
+    <string name="new_costume">New Costume</string>
+    <string name="edit_costume">Edit Costume</string>
+    <string name="expanded_image">Expanded Image</string>
+    <string name="image">Image</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
